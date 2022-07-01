@@ -1,0 +1,20 @@
+<h1 align="center">Part Reorder Details</h1>
+<div class="container">
+<body id="body">
+    <table class="table">
+      <tr>
+        <th>partId</th>
+        <th>Part Description</th>
+        <th>Part Specification</th>
+        <th>stockInHand</th>
+      </tr>
+      <tr *ngFor="let row of partdetails;let i=index;">
+        <td>{{row.partId}}</td>
+        <td>{{row.partDescription}}</td>
+        <td>{{row.partSpecification}}</td>
+        <td>{{row.stockInHand}}</td >
+      </tr>
+    </table>
+    <button type="button" class="btn btn-primary" routerLink="/plant">Back</button>
+</body>
+</div>

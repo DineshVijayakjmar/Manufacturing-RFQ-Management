@@ -1,0 +1,16 @@
+.navbar-nav {
+    margin-right: 50px;
+}
+
+.navbar-nav>li {
+    margin-right: 30px;
+}
+
+nav {
+    background-color: rgb(7, 73, 91)  !important; /*rgba(7, 194, 48, 0.993)*/
+}
+
+a.nav-link {
+    opacity: 1 !important;
+    color: white !important;
+}

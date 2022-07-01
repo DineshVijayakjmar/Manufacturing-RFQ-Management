@@ -1,0 +1,24 @@
+<h1 align="center">Updating Min & Max</h1>
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Part ID</th>
+                <th>Min Qunatity</th>
+                <th>Max Qunatity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><input type="number" name="partId" [(ngModel)]="partId"> </td> <!--[(ngModel)]="partId"-->
+                <td><input type="number" name="minq" [(ngModel)]="minq"> </td> <!--[(ngModel)]="minq"-->
+                <td><input type="number" name="maxq" [(ngModel)]="maxq"> </td> <!--[(ngModel)]="maxq"-->
+                <td><button type="button" class="btn btn-primary" (click)="updateMinMax()">Update</button></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 style="color: red;">{{result.result}}</h3><br>
+    <button type="button" class="btn btn-primary" routerLink="/plant">Back</button>
+
+</div>

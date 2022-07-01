@@ -1,0 +1,27 @@
+<div class="card-deck">
+    <div class="card">
+
+        <div class="card-block">
+            <h4 class="card-title">View Part Reorder Details</h4>
+            <button type="button" class="btn btn-primary" routerLink="/partreorderdetails">View</button>
+        </div>
+    </div>
+
+    <div class="card">
+
+        <div class="card-block">
+            <h4 class="card-title">View Stock Of Part</h4>
+            <label>Enter part Id</label>&nbsp;
+            <input type="number"  name="id" [(ngModel)]="id"> <!--[(ngModel)]="id"-->
+            <button type="button" class="btn btn-primary" (click)="sendId()" routerLink="/viewstock">View</button>
+        </div>
+    </div>
+
+    <div class="card">
+
+        <div class="card-block">
+            <h4 class="card-title">Update Min & Max Quantity</h4>
+            <button type="button" class="btn btn-primary" routerLink="/updateminmax">View</button>
+        </div>
+    </div>
+</div>

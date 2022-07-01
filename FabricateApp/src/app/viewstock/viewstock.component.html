@@ -1,0 +1,20 @@
+<h1 align="center">View Stock Details</h1>
+<div class="container">
+<body id="body">
+    <table class="table">
+      <tr>
+        <th>partId</th>
+        <th>Part Description</th>
+        <th>Part Specification</th>
+        <th>stockInHand</th>
+      </tr>
+      <tr>
+        <td>{{stock.partId}}</td>
+        <td>{{stock.partDescription}}</td>
+        <td>{{stock.partSpecification}}</td>
+        <td>{{stock.stockInHand}}</td >
+      </tr>
+    </table>
+    <button type="button" class="btn btn-primary" routerLink="/plant">Back</button>
+</body>
+</div>

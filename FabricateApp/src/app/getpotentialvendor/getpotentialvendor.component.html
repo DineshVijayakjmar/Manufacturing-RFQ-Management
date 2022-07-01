@@ -1,0 +1,27 @@
+<h1 align="center">Potential Vendors</h1>
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Supplier Id</th>
+                <th>Supplier name</th>
+                <th>Email</th>
+                <th>Phone Number</th>
+                <th>Location</th>
+                <th>Feedback</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let row of vendors">
+                <td>{{row.supplier_id}}</td>
+                <td>{{row.name}}</td>
+                <td>{{row.email}}</td>
+                <td>{{row.phone}}</td>
+                <td>{{row.location}}</td>
+                <td>{{row.feedback}}</td>
+            </tr>
+        </tbody>
+
+    </table>
+    <button type="button" class="btn btn-primary" routerLink="/rfq">Back</button>
+</div>

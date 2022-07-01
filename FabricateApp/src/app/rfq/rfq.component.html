@@ -1,0 +1,20 @@
+<div class="card-deck">
+    <div class="card">
+
+        <div class="card-block">
+            <h4 class="card-title">Get RFQ</h4>
+            <button type="button" class="btn btn-primary" routerLink="/getrfq">View</button>
+        </div>
+    </div>
+
+    <div class="card">
+
+        <div class="card-block">
+            <h4 class="card-title">Get Potential Vendors</h4>
+            <label>Enter RFQ Id</label>&nbsp;
+            <input type="number"  name="rfqid" [(ngModel)]="rfqid"> <!--[(ngModel)]="rfqid"-->
+            <button type="button" class="btn btn-primary" (click)="setRfq()"
+                routerLink="/getpotentialvendors">View</button>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,27 @@
+<h1 align="center">RFQ Details</h1>
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>RFQ Id</th>
+                <th>Part Details</th>
+                <th>Demand Id</th>
+                <th>Part Specification</th>
+                <th>Quantity</th>
+                <th>Time to Supply</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let row of rfqdetails">
+                <td>{{row.rfqId}}</td>
+                <td>{{row.partName}}</td>
+                <td>{{row.demandid}}</td>
+                <td>{{row.specification}}</td>
+                <td>{{row.quantity}}</td>
+                <td>{{row.timetoSupply}}</td>
+            </tr>
+        </tbody>
+
+    </table>
+    <button type="button" class="btn btn-primary" routerLink="/rfq">Back</button>
+</div>
