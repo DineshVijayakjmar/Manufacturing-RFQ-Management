@@ -1,0 +1,128 @@
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\appsettings.Development.json
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\appsettings.json
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\PlantMicros.exe
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\PlantMicros.deps.json
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\PlantMicros.runtimeconfig.json
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\PlantMicros.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\PlantMicros.pdb
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Humanizer.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.csproj.AssemblyReference.cache
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.AssemblyInfoInputs.cache
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.AssemblyInfo.cs
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.csproj.CoreCompileInputs.cache
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.MvcApplicationPartsAssemblyInfo.cs
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.MvcApplicationPartsAssemblyInfo.cache
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\staticwebassets.build.json
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\staticwebassets.development.json
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\scopedcss\bundle\PlantMicros.styles.css
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.csproj.CopyComplete
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\refint\PlantMicros.dll
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.pdb
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.genruntimeconfig.cache
+D:\VS_2022_projects\PlantMicros\PlantMicros\obj\Debug\net6.0\ref\PlantMicros.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\appsettings.Development.json
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\appsettings.json
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\PlantMicros.exe
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\PlantMicros.deps.json
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\PlantMicros.runtimeconfig.json
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\PlantMicros.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\PlantMicros.pdb
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Humanizer.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.csproj.AssemblyReference.cache
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.AssemblyInfoInputs.cache
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.AssemblyInfo.cs
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.csproj.CoreCompileInputs.cache
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.MvcApplicationPartsAssemblyInfo.cs
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.MvcApplicationPartsAssemblyInfo.cache
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\staticwebassets.build.json
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\staticwebassets.development.json
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\scopedcss\bundle\PlantMicros.styles.css
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.csproj.CopyComplete
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\refint\PlantMicros.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.pdb
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\PlantMicros.genruntimeconfig.cache
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\obj\Debug\net6.0\ref\PlantMicros.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Web.Http.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Cognizant_Dotnet_Training\Stage 4\My First Pod Engagement\Manufacturing RFQ Management\PlantMicros (2)\PlantMicros\PlantMicros\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
